@@ -1,0 +1,4 @@
+dependencies {
+    // Registrate
+    jarJar(api(forge.registrate.get()))
+}
